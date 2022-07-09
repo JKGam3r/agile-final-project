@@ -7,7 +7,9 @@ OVERVIEW:
 I will be playing the role of the product owner, scrum master, and developer.
 
   Product Owner: Create stories for the team and organize them for the product backlog
+
   Scrum Master: Create a sprint milestone and have stories that are ready for the sprint plan.
+
   Developer: Create the sprint backlog and execute some of the stories by moving them across the kanban board in a simulated sprint.
 
 BACKGROUND:
